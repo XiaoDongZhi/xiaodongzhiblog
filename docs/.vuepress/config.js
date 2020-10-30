@@ -1,5 +1,6 @@
 module.exports = {
   dest: 'Blog',
+  base: '/xiaodongzhiblog',
   theme: 'reco',
   title: "latte and cat",
   description: 'study programs and record life',
