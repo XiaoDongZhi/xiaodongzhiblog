@@ -1,5 +1,5 @@
 module.exports = {
-  dest: 'dongzhi.blog',
+  dest: 'Blog',
   theme: 'reco',
   title: "latte and cat",
   description: 'study programs and record life',
